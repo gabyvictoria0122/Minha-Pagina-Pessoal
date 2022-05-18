@@ -3,6 +3,31 @@
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Poppins:wght@500;700&family=Red+Hat+Display:wght@500;700;900&family=Roboto+Mono:ital@1&display=swap");
+body {
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+.menu {
+  height: 80px;
+  background-color: #010326;
+  position: sticky;
+  top: 0;
+}
+.text-menu {
+  display: flex;
+  justify-content: space-around;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 30px;
+}
+
+/*.linha {
+  background-color: #ac43d9;
+  z-index: 2;
+  height: 3px;
+  padding-left: 160px;
+} diminuir a largura e deixar ela centralizada */
 
 .container1 {
   display: flex;
@@ -10,16 +35,11 @@
   align-items: center;
   height: 700px;
   background-image: url(../img/fundo-inicial.png);
-}
-
-.container2 {
-  height: 200px;
+  background-attachment: fixed;
 }
 
 .estilo-hey {
-  font-family: "Roboto", sans-serif;
   font-weight: 980;
-  color: white;
   font-size: 100px;
   text-align: center;
   text-transform: uppercase;
@@ -38,7 +58,6 @@
 .estilo-text-topo {
   font-family: "Roboto", sans-serif;
   font-weight: 980;
-  color: white;
   font-size: 50px;
   text-align: center;
   text-transform: uppercase;
@@ -48,7 +67,6 @@
 .estilo-subtext-topo {
   font-family: "Roboto Mono", monospace;
   font-weight: 700;
-  color: white;
   font-size: 25px;
   text-transform: uppercase;
   text-align: center;
@@ -75,5 +93,51 @@
 }
 
 .container2 {
+  height: 200px;
+  background-color: #010326;
+  padding: 150px;
+}
+
+h2 {
+  width: 500px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 24px;
+}
+
+.text {
+  padding-top: 30px;
+  font-size: 24px;
+}
+
+.container3 {
   height: 300px;
+  background-color: white;
+  padding: 150px;
+  color: #010326;
+}
+
+.container4 {
+  height: 300px;
+  background-color: black;
+  padding: 150px;
+}
+
+.container5 {
+  height: 300px;
+  background-color: #ac43d9;
+  padding: 150px;
+}
+
+.tamanho-icon {
+  height: 50px;
+  padding: 50px;
+  /*simbolo crescer quando passar o mouse*/
+}
+
+footer {
+  height: 100px;
+  background-color: #010326;
+  text-align: center;
+  padding: 150px;
 }
