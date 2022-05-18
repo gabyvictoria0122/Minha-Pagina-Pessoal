@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Poppins:wght@500;700&family=Red+Hat+Display:wght@500;700;900&family=Roboto+Mono:ital@1&display=swap");
+
+.container1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 700px;
+  background-image: url(../img/fundo-inicial.png);
+}
+
+.container2 {
+  height: 200px;
+}
+
+.estilo-hey {
+  font-family: "Roboto", sans-serif;
+  font-weight: 980;
+  color: white;
+  font-size: 100px;
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 150px;
+  animation: go-back 0.4s infinite alternate;
+}
+@keyframes go-back {
+  from {
+    transform: translateY(30px);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+
+.estilo-text-topo {
+  font-family: "Roboto", sans-serif;
+  font-weight: 980;
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 140px;
+}
+
+.estilo-subtext-topo {
+  font-family: "Roboto Mono", monospace;
+  font-weight: 700;
+  color: white;
+  font-size: 25px;
+  text-transform: uppercase;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: typewriter 3s steps(26) infinite, blink 400ms steps(26) infinite;
+  border-right: 10px solid white;
+}
+@keyframes typewriter {
+  from {
+    width: 0%;
+  }
+  to {
+    width: 25%;
+  }
+}
+@keyframes blink {
+  from {
+    border-color: white;
+  }
+  to {
+    border-color: transparent;
+  }
+}
+
+.container2 {
+  height: 300px;
+}
