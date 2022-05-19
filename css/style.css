@@ -3,6 +3,11 @@
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Poppins:wght@500;700&family=Red+Hat+Display:wght@500;700;900&family=Roboto+Mono:ital@1&display=swap");
+
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: "Roboto", sans-serif;
   color: white;
@@ -13,6 +18,16 @@ body {
   position: sticky;
   top: 0;
 }
+
+a {
+  color: white;
+  text-decoration: none;
+}
+a:hover,
+a:focus {
+  color: #ac43d9;
+}
+
 .text-menu {
   display: flex;
   justify-content: space-around;
@@ -44,15 +59,8 @@ body {
   text-align: center;
   text-transform: uppercase;
   padding-top: 150px;
-  animation: go-back 0.4s infinite alternate;
-}
-@keyframes go-back {
-  from {
-    transform: translateY(30px);
-  }
-  to {
-    transform: translateY(0);
-  }
+  animation: bounce infinite; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 1s; /* don't forget to set a duration! */
 }
 
 .estilo-text-topo {
@@ -130,9 +138,14 @@ h2 {
 }
 
 .tamanho-icon {
-  height: 50px;
+  height: 80px;
   padding: 50px;
-  /*simbolo crescer quando passar o mouse*/
+  transition: transform 0.3s;
+  transform: translateX(0) scale(0.5);
+}
+.tamanho-icon:hover,
+.tamanho-icon:focus {
+  transform: translateX(10px) scale(1.2);
 }
 
 footer {
