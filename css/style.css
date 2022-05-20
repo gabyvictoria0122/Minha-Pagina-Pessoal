@@ -18,6 +18,11 @@ body {
   position: sticky;
   top: 0;
 }
+@media (max-width: 600px) {
+  .menu {
+    height: 40px;
+  }
+}
 
 a {
   color: white;
@@ -36,6 +41,27 @@ a:focus {
   text-transform: uppercase;
   padding: 30px;
 }
+@media (max-width: 600px) {
+  .text-menu {
+    display: none;
+  }
+}
+
+.menu-mobile {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .menu-mobile {
+    display: flex;
+    justify-content: center;
+    padding: 8px 0;
+  }
+  /*.menu-mobile:hover,
+  .menu-mobile:focus {
+    quero mudar de icon quando clicar no menu 
+  }*/
+}
 
 /*.linha {
   background-color: #ac43d9;
@@ -53,6 +79,12 @@ a:focus {
   background-attachment: fixed;
 }
 
+@media (max-width: 600px) {
+  .container1 {
+    height: 300px;
+  }
+}
+
 .estilo-hey {
   font-weight: 980;
   font-size: 100px;
@@ -62,6 +94,12 @@ a:focus {
   animation: bounce infinite; /* referring directly to the animation's @keyframe declaration */
   animation-duration: 1s; /* don't forget to set a duration! */
 }
+@media (max-width: 600px) {
+  .estilo-hey {
+    font-size: 50px;
+    padding-top: 70px;
+  }
+}
 
 .estilo-text-topo {
   font-family: "Roboto", sans-serif;
@@ -70,6 +108,12 @@ a:focus {
   text-align: center;
   text-transform: uppercase;
   padding-top: 140px;
+}
+@media (max-width: 600px) {
+  .estilo-text-topo {
+    font-size: 20px;
+    padding-top: 50px;
+  }
 }
 
 .estilo-subtext-topo {
@@ -99,11 +143,38 @@ a:focus {
     border-color: transparent;
   }
 }
+@media (max-width: 600px) {
+  .estilo-subtext-topo {
+    font-size: 15px;
+  }
+  @keyframes typewriter {
+    from {
+      width: 0%;
+    }
+    to {
+      width: 80%;
+    }
+  }
+}
+
+.titulos {
+  width: 100%;
+}
+@media (max-width: 600px) {
+  .titulos {
+    font-size: 20px;
+  }
+}
 
 .container2 {
   height: 200px;
   background-color: #010326;
   padding: 150px;
+}
+@media (max-width: 600px) {
+  .container2 {
+    padding: 50px;
+  }
 }
 
 h2 {
@@ -112,10 +183,20 @@ h2 {
   text-transform: uppercase;
   font-size: 24px;
 }
+@media (max-width: 600px) {
+  .h2 {
+    font-size: 3px;
+  }
+}
 
 .text {
   padding-top: 30px;
   font-size: 24px;
+}
+@media (max-width: 600px) {
+  .text {
+    font-size: 10px;
+  }
 }
 
 .container3 {
@@ -124,17 +205,32 @@ h2 {
   padding: 150px;
   color: #010326;
 }
+@media (max-width: 600px) {
+  .container3 {
+    padding: 50px;
+  }
+}
 
 .container4 {
   height: 300px;
   background-color: black;
   padding: 150px;
 }
+@media (max-width: 600px) {
+  .container4 {
+    padding: 50px;
+  }
+}
 
 .container5 {
   height: 300px;
   background-color: #ac43d9;
   padding: 150px;
+}
+@media (max-width: 600px) {
+  .container5 {
+    padding: 50px;
+  }
 }
 
 .tamanho-icon {
@@ -147,10 +243,31 @@ h2 {
 .tamanho-icon:focus {
   transform: translateX(10px) scale(1.2);
 }
+@media (max-width: 600px) {
+  .tamanho-icon {
+    height: 50px;
+    padding: 5px;
+    transition: transform 0.3s;
+    transform: translateX(0) scale(0.5);
+  }
+  .tamanho-icon:hover,
+  .tamanho-icon:focus {
+    transform: translateX(10px) scale(1.2);
+  }
+}
 
 footer {
   height: 100px;
   background-color: #010326;
   text-align: center;
   padding: 150px;
+}
+@media (max-width: 600px) {
+  footer {
+    height: 60px;
+    padding: 50px;
+  }
+  footer > h3 {
+    font-size: 8px;
+  }
 }
