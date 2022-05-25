@@ -237,7 +237,7 @@ h2 {
 }
 
 .container4 {
-  height: fit-content;
+  height: 600px;
   background-color: black;
   padding: 150px;
 }
@@ -245,6 +245,18 @@ h2 {
   .container4 {
     padding: 50px;
   }
+}
+
+.projeto {
+  background-color: aqua;
+  height: 100px;
+  width: 100px;
+}
+
+.projeto > img {
+  height: 300px;
+  width: 300px;
+  padding: 20px;
 }
 
 .container5 {
