@@ -8,13 +8,12 @@ Nasci em Santos-SP no dia 22 de outubro do ano de 2003, mas passei a maior parte
 
 Fui filha única por 6 anos da minha vida, mas hoje sou a irmã mais velha de duas garotinhas irritantes que amo muito.
 
-Sempre estudei em escola pública, tinha um boletim impecável, e por isso me achava inteligente, contudo na época que comecei a estudar para vestibular descobri que eu estava completamente errada e que tinha que me dedicar muito para dominar pelo menos a matemática básica
+Sempre estudei em escola pública, tinha um boletim impecável, e por isso me achava inteligente, contudo na época que comecei a estudar para vestibular descobri que eu estava completamente errada e que tinha que me dedicar muito para dominar pelo menos a matemática básica.
 
 ## Vida Acadêmica
 
-Apesar do meu nome, não sofro da sindrome de Gabriela devido as surras que levei da vida.
-
-Quando comecei a estudar para vestibulares descobri que não sabia de nada
+Fiz meu Ensino Médio integrado ao técnico em Administração na ETEC.
+Estou cursando Engenharia da Computação no descomplica
 
 ### VIDA PROFISSIONAL
 
