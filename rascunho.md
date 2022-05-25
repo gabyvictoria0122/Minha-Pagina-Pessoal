@@ -4,16 +4,9 @@
 
 ### Um pouco da minha história
 
-Nasci em Santos-SP no dia 22 de outubro do ano de 2003, mas passei a maior parte da minha vida morando em Praia Grande-SP.
+Nasci em Santos-SP no dia 22 de outubro do ano de 2003, mas passei a maior parte da minha vida morando em Praia Grande-SP. Fui filha única por 6 anos da minha vida, mas hoje sou a irmã mais velha de duas garotinhas irritantes que amo muito.
 
-Fui filha única por 6 anos da minha vida, mas hoje sou a irmã mais velha de duas garotinhas irritantes que amo muito.
-
-Sempre estudei em escola pública, tinha um boletim impecável, e por isso me achava inteligente, contudo na época que comecei a estudar para vestibular descobri que eu estava completamente errada e que tinha que me dedicar muito para dominar pelo menos a matemática básica.
-
-## Vida Acadêmica
-
-Fiz meu Ensino Médio integrado ao técnico em Administração na ETEC.
-Estou cursando Engenharia da Computação no descomplica
+Já pratiquei varios esportes e sempre estudei em escola pública. Fiz meu Ensino Médio integrado ao técnico em Administração na ETEC, sou estagiaria na Buser e estou cursando Engenharia da Computação na Faculdade Descomplica.
 
 ### VIDA PROFISSIONAL
 
@@ -24,6 +17,16 @@ Minha primeira experiência profissional oficial está sendo na Buser(link), sta
 ### Mas como achei esse programa?
 
 Em frente ao local de prova do IME, no termino da prova, tinha representantes da Buser distribuindo planfetos sobre esse promagrama inédito e oferecendo haffals e toddynho de graça. De primeira, desconfiei da proposta, mas me inscrivi e cá estou hoje.
+
+### Como descobri qual profissão seguir
+
+A principio, eu queria seguir carreira militar, porém, no ensino médio, conheci outros caminhos muito interessantes e voltei a ficar indecisa. No final de 2019 participei de uma Competição do Google que tinha o objetivo de incentivar meninas a criarem jogos para celular. Fui uma das selecionadas e ganhei acesso a 16 cursos online da Alura com os fundamentos da programação para desenvolvimento de jogos. Fiz apenas a metade desses cursos pra perceber que queria entrar na área de TI. Então fui pesquisar mais, achei a Graduação de Engenharia da Computação interessante, conheci o ITA e o IME e decidi encarar o desafio de entrar em uma dessas instituiçoes. Tragicamente descobri que boletins nota 10 não era o suficiente e que minha situação em exatas estava pior do que eu imaginava.
+Quando a quarentena começou iniciei oficialmente minha vida de vestibulanda, chorava todo dia por não conseguir resolver questoes de matematica básica, mas na base da disciplina e de muita oração fui estudando, apanhei muito por não saber estudar direito, extraia o máximo de bizus possiveis de pessoas que estavam nisso a mais tempo que eu e dessa forma fui evoluindo. Fiz o vestibular do IME em 2020, (consegui tirar 1, alguma coisa pelo menos k). Comecei 2021 focada em vestibules, terminar o ensino médio e fazer o TCC, consciliar tudo fui uma loucura. Fiz 7 vestibulares nesse ano
+
+Uma curiosidade é que no começo de 2019 quando fui no monte com meus pais um cara aletório começou a fazer revelaçoes lá e me disse que eu não precisava me preocupar com a faculdade porque Deus estaria no controle de tudo. Fiquei tipo ???, pq nessa época tinha acabado de entrar no ensino mediao e estava mais preocupada em me adapatar a nova escola. Só que quando comecei a focar no que fazer depois do ensino médio percebi o quanto foi importante eu ouvir aquilo, pois quem já passou por esse periodo sabe o quão dificil é lidar com ansiedade, incertezas e outros perrengues que vem incluso no pacote.
+
+Mas, como está escrito:As coisas que o olho não viu, e o ouvido não ouviu,e não subiram ao coração do homem,são as que Deus preparou para os que o amam.
+1 Coríntios 2:9
 
 ### PORTIFÓLIO
 
@@ -102,3 +105,5 @@ Fonte estilosa: [https://elements.envato.com/pt-br/ca-texteron-33MZZV](https://e
 [https://elements.envato.com/pt-br/addington-cf-beautiful-serif-font-family-R3FXLA](https://elements.envato.com/pt-br/addington-cf-beautiful-serif-font-family-R3FXLA)
 
 gostei do estilogos[https://www.free-css.com/free-css-templates/page278/uxos](https://www.free-css.com/free-css-templates/page278/uxos)
+
+pág do vito: https://victormagalhaesbarreto.github.io/D-Final/#inicio

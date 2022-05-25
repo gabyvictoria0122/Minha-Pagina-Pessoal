@@ -24,12 +24,12 @@ body {
   }
 }
 
-a {
+.a-menu {
   color: white;
   text-decoration: none;
 }
-a:hover,
-a:focus {
+.a-menu:hover,
+.a-menu:focus {
   color: #ac43d9;
 }
 
@@ -158,7 +158,8 @@ a:focus {
 }
 
 .titulos {
-  width: 100%;
+  width: fit-content;
+  font-size: 30px;
 }
 @media (max-width: 600px) {
   .titulos {
@@ -167,9 +168,12 @@ a:focus {
 }
 
 .container2 {
-  height: 200px;
+  height: fit-content;
   background-color: #010326;
   padding: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 @media (max-width: 600px) {
   .container2 {
@@ -189,6 +193,19 @@ h2 {
   }
 }
 
+.sub-titulo {
+  align-self: flex-start;
+  padding: 60px 0 10px 0;
+  font-size: 26px;
+}
+
+.p-textos {
+  padding-top: 20px;
+  line-height: 40px;
+  font-size: 24px;
+  text-align: justify;
+}
+
 .text {
   padding-top: 30px;
   font-size: 24px;
@@ -199,11 +216,19 @@ h2 {
   }
 }
 
+.a-text {
+  color: #ac43d9;
+  text-decoration: none;
+}
+
 .container3 {
-  height: 300px;
+  height: fit-content;
   background-color: white;
   padding: 150px;
   color: #010326;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 @media (max-width: 600px) {
   .container3 {
@@ -212,7 +237,7 @@ h2 {
 }
 
 .container4 {
-  height: 300px;
+  height: fit-content;
   background-color: black;
   padding: 150px;
 }
@@ -223,7 +248,7 @@ h2 {
 }
 
 .container5 {
-  height: 300px;
+  height: fit-content;
   background-color: #ac43d9;
   padding: 150px;
 }
