@@ -158,8 +158,9 @@ body {
 }
 
 .titulos {
-  width: fit-content;
   font-size: 30px;
+  text-align: center;
+  padding-bottom: 50px;
 }
 @media (max-width: 600px) {
   .titulos {
@@ -167,7 +168,7 @@ body {
   }
 }
 
-.container2 {
+.container-sobre {
   height: fit-content;
   background-color: #010326;
   padding: 150px;
@@ -176,13 +177,12 @@ body {
   align-items: center;
 }
 @media (max-width: 600px) {
-  .container2 {
+  .container-sobre {
     padding: 50px;
   }
 }
 
 h2 {
-  width: 500px;
   font-weight: 700;
   text-transform: uppercase;
   font-size: 24px;
@@ -200,16 +200,11 @@ h2 {
 }
 
 .p-textos {
-  padding-top: 20px;
   line-height: 40px;
   font-size: 24px;
   text-align: justify;
 }
 
-.text {
-  padding-top: 30px;
-  font-size: 24px;
-}
 @media (max-width: 600px) {
   .text {
     font-size: 10px;
@@ -221,24 +216,38 @@ h2 {
   text-decoration: none;
 }
 
-.container3 {
+.container-vida-academica {
   height: fit-content;
   background-color: white;
   padding: 150px;
   color: #010326;
+}
+@media (max-width: 600px) {
+  .container-vida-academica {
+    height: fit-content;
+    background-color: #ac43d9;
+    padding: 150px;
+  }
+}
+
+.container-vida-profissional {
+  height: fit-content;
+  background-color: black;
+  padding: 150px;
+  color: white;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 @media (max-width: 600px) {
-  .container3 {
+  .container-vida-profissional {
     padding: 50px;
   }
 }
 
 .container4 {
   height: 600px;
-  background-color: black;
+  background-color: #010326;
   padding: 150px;
 }
 @media (max-width: 600px) {
@@ -246,17 +255,17 @@ h2 {
     padding: 50px;
   }
 }
-
-.projeto {
-  background-color: aqua;
-  height: 100px;
-  width: 100px;
+.projetos {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
 }
 
 .projeto > img {
-  height: 300px;
-  width: 300px;
-  padding: 20px;
+  height: 350px;
+  width: 350px;
+  padding: 0 0 50px 0;
+  background-color: #ac43d9;
 }
 
 .container5 {

@@ -18,14 +18,15 @@ Minha primeira experiência profissional oficial está sendo na Buser(link), sta
 
 Em frente ao local de prova do IME, no termino da prova, tinha representantes da Buser distribuindo planfetos sobre esse promagrama inédito e oferecendo haffals e toddynho de graça. De primeira, desconfiei da proposta, mas me inscrivi e cá estou hoje.
 
-### Como descobri qual profissão seguir
+### VIDA DE VESTIBULANDA
 
-A principio, eu queria seguir carreira militar, porém, no ensino médio, conheci outros caminhos muito interessantes e voltei a ficar indecisa. No final de 2019 participei de uma Competição do Google que tinha o objetivo de incentivar meninas a criarem jogos para celular. Fui uma das selecionadas e ganhei acesso a 16 cursos online da Alura com os fundamentos da programação para desenvolvimento de jogos. Fiz apenas a metade desses cursos pra perceber que queria entrar na área de TI. Então fui pesquisar mais, achei a Graduação de Engenharia da Computação interessante, conheci o ITA e o IME e decidi encarar o desafio de entrar em uma dessas instituiçoes. Tragicamente descobri que boletins nota 10 não era o suficiente e que minha situação em exatas estava pior do que eu imaginava.
-Quando a quarentena começou iniciei oficialmente minha vida de vestibulanda, chorava todo dia por não conseguir resolver questoes de matematica básica, mas na base da disciplina e de muita oração fui estudando, apanhei muito por não saber estudar direito, extraia o máximo de bizus possiveis de pessoas que estavam nisso a mais tempo que eu e dessa forma fui evoluindo. Fiz o vestibular do IME em 2020, (consegui tirar 1, alguma coisa pelo menos k). Comecei 2021 focada em vestibules, terminar o ensino médio e fazer o TCC, consciliar tudo fui uma loucura. Fiz 7 vestibulares nesse ano
+No final de 2019, e participei da Competição do Google que tinha o objetivo de incentivar meninas a criarem jogos para celular. Fui uma das selecionadas e ganhei acesso a 16 cursos online da Alura com os fundamentos da programação para desenvolvimento de jogos. Fiz apenas a metade desses cursos para perceber que queria a área de TI. Depois de muita pesquisa, achei a Graduação de Engenharia da Computação interessante, conheci o ITA e o IME e decidi encarar o desafio de entrar em uma dessas instituições. Tragicamente descobri que boletins nota 10 não era o suficiente e que minha situação em exatas estava pior que eu imaginava.
 
-Uma curiosidade é que no começo de 2019 quando fui no monte com meus pais um cara aletório começou a fazer revelaçoes lá e me disse que eu não precisava me preocupar com a faculdade porque Deus estaria no controle de tudo. Fiquei tipo ???, pq nessa época tinha acabado de entrar no ensino mediao e estava mais preocupada em me adapatar a nova escola. Só que quando comecei a focar no que fazer depois do ensino médio percebi o quanto foi importante eu ouvir aquilo, pois quem já passou por esse periodo sabe o quão dificil é lidar com ansiedade, incertezas e outros perrengues que vem incluso no pacote.
+Quando a quarentena começou, iniciei oficialmente minha vida de vestibulanda. Chorava todo dia por não conseguir resolver questões de matemática básica, apanhava muito por não saber estudar direito, buscava dicas, extraia muitos bizus do grupo de estudos no WhatsApp e na base da disciplina e oração consegui ir evoluindo. Em 2021 a meta era terminar o ensino médio integrado ao técnico e fazer o TCC enquanto focava nos vestibulares. Obviamente conciliar tudo fui uma loucura, contudo fiz a prova da AFA, IME, EEAR, ITA, ENEM e FUVEST nesse ano, e fui mal em praticamente todas tirando o ENEM que tirei uma nota mediana e a FUVEST que e passei para segunda fase.
 
-Mas, como está escrito:As coisas que o olho não viu, e o ouvido não ouviu,e não subiram ao coração do homem,são as que Deus preparou para os que o amam.
+Uma curiosidade é que no começo de 2019 quando fui ao monte (um lugar alto, cheio de mata que é muito lindo) com meus pais um cara aleatório começou a fazer revelações e me disse que eu não precisava me preocupar com a faculdade porque Deus estaria no controle de tudo. Na época não levei muito a sério, porque tinha acabado de entrar no ensino médio e não estava nem me preocupando com faculdade. Todavia quando comecei a pensar nisso percebi o quanto foi importante ouvir aquilo, pois quem já passou por esse período sabe o quão difícil é lidar com ansiedade, incertezas e outros perrengues que vem incluso no pacote.
+
+Mas, como está escrito: As coisas que o olho não viu, e o ouvido não ouviu, e não subiram ao coração do homem, são as que Deus preparou para os que o amam.
 1 Coríntios 2:9
 
 ### PORTIFÓLIO
@@ -90,7 +91,7 @@ email, git, insta, linkdin,
 
 ### Dicas:
 
-fotos bonitas
+fotos bonitas fazem toda a diferença
 
 ## Inspirações
 
