@@ -12,11 +12,13 @@ body {
   font-family: "Roboto", sans-serif;
   color: white;
 }
+
 .menu {
   height: 80px;
   background-color: #010326;
   position: sticky;
   top: 0;
+  z-index: 1;
 }
 @media (max-width: 600px) {
   .menu {
@@ -50,7 +52,6 @@ body {
 .menu-mobile {
   display: none;
 }
-
 @media (max-width: 600px) {
   .menu-mobile {
     display: flex;
@@ -63,14 +64,25 @@ body {
   }*/
 }
 
-/*.linha {
+.linha-max {
   background-color: #ac43d9;
   z-index: 2;
   height: 3px;
   padding-left: 160px;
-} diminuir a largura e deixar ela centralizada */
+  width: 500px;
+  text-align: center;
+}
 
-.container1 {
+.linha-min {
+  background-color: #00bbff;
+  z-index: 3;
+  height: 3px;
+  width: 200px;
+  padding-left: 160px;
+  text-align: center;
+}
+
+.container-topo {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -124,7 +136,7 @@ body {
   text-align: center;
   white-space: nowrap;
   overflow: hidden;
-  animation: typewriter 3s steps(26) infinite, blink 400ms steps(26) infinite;
+  animation: typewriter 3s steps(26), blink 400ms steps(26) infinite;
   border-right: 10px solid white;
 }
 @keyframes typewriter {
@@ -132,7 +144,7 @@ body {
     width: 0%;
   }
   to {
-    width: 25%;
+    width: 402px;
   }
 }
 @keyframes blink {
@@ -216,11 +228,23 @@ h2 {
   text-decoration: none;
 }
 
-.container-vida-academica {
+.container-hobbies {
   height: fit-content;
   background-color: white;
-  padding: 150px;
   color: #010326;
+  padding: 150px;
+}
+@media (max-width: 600px) {
+  .container-hobbies {
+    padding: 50px;
+  }
+}
+
+.container-vida-academica {
+  height: fit-content;
+  background-color: #010326;
+  padding: 150px;
+  color: white;
 }
 @media (max-width: 600px) {
   .container-vida-academica {
@@ -232,9 +256,9 @@ h2 {
 
 .container-vida-profissional {
   height: fit-content;
-  background-color: black;
+  background-color: white;
   padding: 150px;
-  color: white;
+  color: #010326;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -265,18 +289,7 @@ h2 {
   height: 350px;
   width: 350px;
   padding: 0 0 50px 0;
-  background-color: #ac43d9;
-}
-
-.container5 {
-  height: fit-content;
-  background-color: #ac43d9;
-  padding: 150px;
-}
-@media (max-width: 600px) {
-  .container5 {
-    padding: 50px;
-  }
+  background-color: white;
 }
 
 .tamanho-icon {
