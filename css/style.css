@@ -360,7 +360,7 @@ body {
   }
   .tamanho-icon:hover,
   .tamanho-icon:focus {
-    transform: translateX(10px) scale(1.2);
+    transform: translateX(5px) scale(1);
   }
 }
 
