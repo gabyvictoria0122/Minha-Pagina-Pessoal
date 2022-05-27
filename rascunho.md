@@ -35,7 +35,11 @@ Mas, como está escrito: As coisas que o olho não viu, e o ouvido não ouviu, e
 
 ### HOBBIES
 
-Desde de a infância pratico esportes
+Desde de a infância pratico esportes. De acordo com meus pais, comecei com o Judô com uns 4 ou 5 anos, mudamos de cidade e quando eu tinha 8 anos comecei a fazer karate, ballet, natação, violão, dança de rua, andar de skate, handball e vôlei, em ordem cronologica e as vezes práticava no máximo três deles ao mesmo tempo. Antes de pandemia comecei no parkour, mas na quarentena o sendentarismo reinou.
+
+Deixar de fazer muito deles, por exemplo, o ballet achava muito delicado e eu sou o oposto disso, na natação tinha uma menina que nadava melhor que eu e como não conseguia nadar mais rápido que ela desisti (como não tenho a Síndrome de Gabriela hoje sei se cercar de pessoas que são melhores do que você é algo positivo, pois posso aprender com elas ). Parei com tudo quando minha avó materna morreu e logo em seguida minha avó paterna também se foi. Depois do luto voltei com o karate e consegui pegar a faixa preta próximo a meu aniversário de 15 anos, meta que estipulei quando criança ao desejar ser que nem os faixar graduadas daquela época. Fiquei muito feliz por isso. O karate foi umas das coisas que me trouxeram muitos ensinamentos como os Dojo kun e Niju kun pq **[. O Karate Vai Além do Dojo](https://www.karatefaixapreta.com.br/niju-kun-karate/#o-karate-vai-alem-do-dojo),**. O niju kun diz **[O Karate é Como Água Quente. Se não Receber Calor Constantemente, Volta a Ficar Fria](https://www.karatefaixapreta.com.br/niju-kun-karate/#o-karate-e-como-agua-quente) e infelizmente estou a 10 graus abaixo de 0.** , mas o objetivo é voltar a ativa em breve.
+
+De resto curto ir a igreja, assistir filmes, séries, jogar, entre outras coisas que jovens comuns gostam, só me falta tempo mesmo.
 
 ## Banco de ideias
 
@@ -50,27 +54,6 @@ Desde de a infância pratico esportes
 
 (20) Estudar, praticar e aperfeiçoar-se sempre.
 
-**[O Karate é Como Água Quente. Se não Receber Calor Constantemente, Volta a Ficar Fria](https://www.karatefaixapreta.com.br/niju-kun-karate/#o-karate-e-como-agua-quente) e infelizmente estou a 10 graus abaixo de 0.**
-
-**[. O Karate Vai Além do Dojo](https://www.karatefaixapreta.com.br/niju-kun-karate/#o-karate-vai-alem-do-dojo),**
-
-- Estágio
-- minha historia com a programação
-
-## Texto
-
-### Menu: sobre, experiencias, contato
-
-Sobre
-
-Hey, meu nome é Gabriela, mas pode me chamar de Gaby.
-
-Nasci no mês de outubro de 2003, sou a irmã mais velha de uma família cristã que sempre estudou em escola pública, tinha um boletim impecável (trágica ilusão) cujo a única reclamação era o fato de eu conversar muito(melhorei um pouquinho), praticava muitos esportes, não parava quieta e aos plenos 18 anos me tornei estagiária da Buser pelo programa BuserTech.
-
-Experiencia acadêmica
-
-Momento Vestibulanda
-
 Esportes
 
 Judo quando criança, me mudei de cidade antes de ir para o ensino fundamental e quando estava no terceiro ano comecei a praticar ballet, natação e karate. Não gostei do ballet pq eu n era nada delicada então fui pra dança de rua e simplesmente amei. Eu gostava de natação, mas não conseguia me destacar e minha mentalidade da época me fez desistir. Já no karate eu almejava ser que nem os faixar graduadas quando crescesse e essa foi a primeira meta que estabeleci e concluir durante minha vida. Sem duvidas, como já está afirmado nos nijukuns, **[O Karate Vai Além do Dojo](https://www.karatefaixapreta.com.br/niju-kun-karate/#o-karate-vai-alem-do-dojo), e atraves dele aquiri muitas skills** me trouxe muito ensinamentos
@@ -78,16 +61,6 @@ Judo quando criança, me mudei de cidade antes de ir para o ensino fundamental e
 Handball e Volei praticava no ensino funcamental II e no ensino médio continuei apenas jogando volei com os amigos por diversão.
 
 O Parkour comecei antes da pandemia, mas devido a quarentena tive que dar uma pausa, assim como no karate que **[é Como Água Quente. Se não Receber Calor Constantemente, Volta a Ficar Fria](https://www.karatefaixapreta.com.br/niju-kun-karate/#o-karate-e-como-agua-quente) e infelizmente estou a 10 graus abaixo de 0.**
-
-sindrome de gabriela
-
-experiencias de vida
-
-### roda pé com contatos
-
-**© Gabriela Victoria | Estagiária | 2022**
-
-email, git, insta, linkdin,
 
 ### Dicas:
 
