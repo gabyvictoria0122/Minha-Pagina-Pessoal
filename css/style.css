@@ -1,12 +1,9 @@
 * {
   margin: 0;
+  scroll-behavior: smooth;
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Poppins:wght@500;700&family=Red+Hat+Display:wght@500;700;900&family=Roboto+Mono:ital@1&display=swap");
-
-html {
-  scroll-behavior: smooth;
-}
 
 body {
   font-family: "Roboto", sans-serif;
@@ -72,6 +69,11 @@ body {
   position: relative;
   top: -150px;
 }
+@media (max-width: 600px) {
+  .linhas {
+    top: -52px;
+  }
+}
 
 .linha-max {
   background-color: #ac43d9;
@@ -97,9 +99,8 @@ body {
   background-image: url(../img/fundo-inicial.png);
   background-attachment: fixed;
 }
-
 @media (max-width: 600px) {
-  .container1 {
+  .container-topo {
     height: 300px;
   }
 }
@@ -184,6 +185,7 @@ body {
 @media (max-width: 600px) {
   .titulos {
     font-size: 20px;
+    padding-bottom: 25px;
   }
 }
 
@@ -218,12 +220,23 @@ h2 {
   font-size: 26px;
   color: #010326;
 }
+@media (max-width: 600px) {
+  .sub-titulo {
+    font-size: 17px;
+  }
+}
 
 .p-textos {
   line-height: 40px;
   font-size: 24px;
   text-align: justify;
   padding-top: 15px;
+}
+@media (max-width: 600px) {
+  .p-textos {
+    font-size: 16px;
+    line-height: 20px;
+  }
 }
 
 @media (max-width: 600px) {
@@ -257,9 +270,7 @@ h2 {
 }
 @media (max-width: 600px) {
   .container-vida-academica {
-    height: fit-content;
-    background-color: #ac43d9;
-    padding: 150px;
+    padding: 50px;
   }
 }
 
@@ -301,10 +312,16 @@ h2 {
   height: fit-content;
   background-color: #ffff;
 }
+@media (max-width: 600px) {
+  .projeto {
+    font-size: 12px;
+    margin-bottom: 50px;
+  }
+}
+
 .img-porti {
   height: 30rem;
   width: 30rem;
-
   -webkit-transition: -webkit-transform 0.5s ease;
   transition: transform 0.5s ease;
 }
@@ -329,7 +346,13 @@ h2 {
   line-height: 100px;
   text-transform: uppercase;
 }
-.branco {
+@media (max-width: 600px) {
+  .projeto > h3 {
+    font-size: 12px;
+  }
+}
+
+.linha-footer {
   height: 1px;
   background-color: #ac43d9;
 }
