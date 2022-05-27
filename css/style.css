@@ -216,6 +216,7 @@ h2 {
   align-self: flex-start;
   padding: 60px 0 10px 0;
   font-size: 26px;
+  color: #010326;
 }
 
 .p-textos {
@@ -278,9 +279,10 @@ h2 {
 }
 
 .container4 {
-  height: 600px;
+  height: fit-content;
   background-color: #010326;
   padding: 150px;
+  color: white;
 }
 @media (max-width: 600px) {
   .container4 {
@@ -294,19 +296,25 @@ h2 {
   flex-wrap: wrap;
   overflow: hidden;
 }
-
+.projeto {
+  padding: 1rem 1rem 5rem 1rem;
+  background-color: #ffff;
+}
 .projeto > img {
-  height: 350px;
-  width: 350px;
-  padding: 0 0 50px 0;
-  background-color: white;
+  height: 30rem;
+  width: 30rem;
+
   -webkit-transition: -webkit-transform 0.5s ease;
   transition: transform 0.5s ease;
 }
-.projetos:hover img {
-  -webkit-transform: scale(0.9);
-  transform: scale(0.9);
+.projeto:hover img {
+  -webkit-transform: scale(1.3);
+  transform: scale(1.06);
   cursor: pointer;
+}
+.branco {
+  height: 1px;
+  background-color: #ac43d9;
 }
 
 .tamanho-icon {
