@@ -280,8 +280,8 @@ body {
   color: white;
 }
 @media (max-width: 600px) {
-  .container4 {
-    padding: 50px;
+  .container-portifolio {
+    padding: 20px;
   }
 }
 .projetos {
@@ -349,7 +349,7 @@ body {
 }
 .tamanho-icon:hover,
 .tamanho-icon:focus {
-  transform: translateX(10px) scale(1.2);
+  transform: translateX(0px) scale(0.7);
 }
 @media (max-width: 600px) {
   .tamanho-icon {
